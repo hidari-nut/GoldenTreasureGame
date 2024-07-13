@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="viswaGoldenTreasureGame.Area">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAsAECQAQAhEAAAIQAgAAQAkAAEABAUAAgARCAAAEA=</HashCode>
+      <FileName>Area.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="ListEnemy" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Barrier">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Barrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Enemy">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEgCEAAIAhAAgAAAAAIAQBAAAMAQAABAAAABAABAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="ListProjectiles" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.FormGame" Collapsed="true">
+    <Position X="21.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CwBhLaIEArJlVJAAJlb6I1si0ADARMPbcV4YFlBpVE4=</HashCode>
+      <FileName>FormGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Hazard">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAIAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hazard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Items">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAQQAAAEAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.ObstacleItem">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAgAAAQIBAAAAAAAAAAAAAYAABAAAAAAAAAE=</HashCode>
+      <FileName>ObstacleItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Player" Collapsed="true">
+    <Position X="21.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEkgASAAIAAAQABAAAAAAQBAAAEAQAIRAAAAAABBAE=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Program" Collapsed="true">
+    <Position X="21.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.TreasureItem">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>TreasureItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.ViswaTime" Collapsed="true">
+    <Position X="21.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAIAAAAAAWIAAAAiAAAAAAA=</HashCode>
+      <FileName>ViswaTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Properties.Resources" Collapsed="true">
+    <Position X="21.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>dKt6jhlEEoqhAVkASACVGLhSUUo5JCtriFkIMBEkpM4=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Properties.Settings" Collapsed="true">
+    <Position X="21.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Projectile">
+    <Position X="10.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAwAgBAAgAAAAoAAAASIEAAAgBMAIAABAAEABAAJAI=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Boss">
+    <Position X="15" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAAAAAAAAAAAAAAAAAAABAAAAAQAAAEAAAABAw=</HashCode>
+      <FileName>Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Weapons">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAgAAAAAAAAAAAAAQAgAAEIAAAAAEAAAABAI=</HashCode>
+      <FileName>Weapons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Entrance">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAABAAAAAAAABAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Entrance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Shield">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shield.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

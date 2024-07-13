@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="viswaGoldenTreasureGame.Items">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIABAAAAEAAAAAQgAAAEAIAAAAAAQAAAAAA=</HashCode>
+      <FileName>Items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.TreasureItem">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>TreasureItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.ObstacleItem">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAgAAAQIBAAAAAAAAAAAAAYAABAAAAAAAAAE=</HashCode>
+      <FileName>ObstacleItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Hazard">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAIAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hazard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="viswaGoldenTreasureGame.Barrier">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Barrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
